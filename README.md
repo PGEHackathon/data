@@ -9,7 +9,7 @@
 ### Sponsors 
 
 Platinum:
-[Pioneer Oil Company Inc.](https://pioneeroil.net/), [Phillips66](https://www.phillips66.com/)
+[Pioneer Natural Resources](pxd.com)., [Phillips66](https://www.phillips66.com/)
 
 Silver:
 [Chevron](https://www.chevron.com), [Shell](https://www.shell.us/), [ExxonMobil](https://corporate.exxonmobil.com/), Elizabeth Huth CoatesCharitable Foundation of 1992
