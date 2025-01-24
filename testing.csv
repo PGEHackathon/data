@@ -1,0 +1,51 @@
+Well Name,# Stages,# Clusters ,Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Target Formation,Field Area,Ambient Temperature,Grid,Diesel,CNG,Fuel Type,Sand Provider 
+Buchanan 6H,37,211,,,Fleet 9,Simul,Longhorn,Turtle Pond,74.5,,,,DGB,SAND_C_X
+Yabucoa 1H,43,297,102.4,,Fleet 2,Simul,Rodeo,West Campus,60.1,,,,Turbine,SAND_C_R
+Trujillo Alto 4H,60,459,96,,Fleet 12,Simul,Monarch Butterfly,Guadalupe,84.9,,,,Diesel,SAND_C_X
+Richmond 5H,76,489,120,,Fleet 2,Simul,Longhorn,CPE,81.1,,,,Grid,SAND_C_X
+Queen Anne's 1H,50,358,76.2,,Fleet 6,Zipper,Cowboy,Guadalupe,,,,,DGB,SAND_C_X
+De Soto 3H,51,313,76.2,,Fleet 4,Zipper,Cowboy,Guadalupe,85.3,,,,Turbine,SAND_C_R
+Floyd 3H,66,461,77.1,,Fleet 8,Zipper,Longhorn,Guadalupe,72.2,,,,DGB,SAND_C_A
+Monroe 7H,50,312,106.7,,Fleet 9,Simul,Monarch Butterfly,DKR,67.5,,,,DGB,SAND_C_X
+Mecosta 3H,82,569,133.3,,Fleet 1,Simul,Cowboy,DKR,79.8,,,,Grid,SAND_C_X
+Johnson 3H,49,380,96,,Fleet 14,Simul,Bluebonnet,DKR,71.1,,,,Diesel,SAND_C_X
+Blanco 2H,51,395,106.7,,Fleet 2,Simul,Bluebonnet,Guadalupe,43.3,,,,Turbine,SAND_C_X
+Johnson 1H,50,315,,,Fleet 9,Simul,Bluebonnet,Moody Center,56.1,,,,DGB,SAND_C_A
+Hillsborough 3H,35,256,,,Fleet 12,Simul,Rodeo,Moody Center,86.6,,,,Diesel,SAND_C_X
+Penobscot 1H,51,389,,,Fleet 1,Simul,Lone Star,The Tower,74.6,,,,Turbine,SAND_C_X
+St. John the Baptist 4H,51,322,106.7,,Fleet 2,Simul,Cowboy,West Campus,73.3,,,,Grid,SAND_C_A
+Ouachita 4H,75,503,133.3,,Fleet 12,Simul,Lone Star,CPE,47.6,,,,Diesel,SAND_C_R
+Shelby 3H,50,392,,,Fleet 14,Simul,Bluebonnet,DKR,69.3,,,,Diesel,SAND_C_A
+Oldham 2H,31,207,73.1,,Fleet 6,Zipper,Rodeo,West Campus,43.1,,,,Diesel,SAND_C_X
+Screven 4H,62,409,106.7,,Fleet 2,Simul,Cowboy,West Campus,,,,,Diesel,SAND_C_R
+Montgomery 1H,50,358,68.6,,Fleet 15,Zipper,Bluebonnet,West Campus,71.9,,,,Diesel,SAND_C_A
+Owyhee 1H,84,554,160,,Fleet 2,Simul,Pecan Tree,DKR,84.9,,,,Grid,SAND_C_X
+Okfuskee 5H,43,259,,,Fleet 2,Simul,Rodeo,Guadalupe,49.6,,,,Turbine,SAND_C_X
+Washita 3H,51,401,76.2,,Fleet 4,Zipper,Bluebonnet,Guadalupe,49.2,,,,Turbine,SAND_C_X
+Beaufort 2H,51,384,,,Fleet 4,Zipper,Longhorn,West Campus,43.4,,,,Turbine,SAND_C_A
+Adams 5H,42,319,102.4,,Fleet 9,Simul,Rodeo,DKR,51.4,,,,DGB,SAND_C_A
+Northern Islands 2H,57,397,77.1,,Fleet 8,Zipper,Lone Star,Guadalupe,,,,,DGB,SAND_C_A
+San Luis Obispo 4H,51,342,133.3,,Fleet 9,Simul,Magnolia,Moody Center,63.9,,,,DGB,SAND_C_R
+Clay 4H,50,337,109.3,,Fleet 12,Simul,Longhorn,CPE,,,,,Diesel,SAND_C_A
+Tuolumne 3H,43,252,73.1,,Fleet 4,Zipper,Rodeo,CPE,66.7,,,,Turbine,SAND_C_R
+Pinellas 2H,76,539,96,,Fleet 2,Simul,Longhorn,West Campus,,,,,Grid,SAND_C_A
+Dewey 1H,101,700,57.1,,Fleet 6,Zipper,Longhorn,West Campus,49.6,,,,DGB,SAND_C_R
+Jefferson 1H,44,274,70.7,,Fleet 15,Zipper,Cowboy,Guadalupe,88,,,,Diesel,SAND_C_X
+Lake 2H,50,364,114.3,,Fleet 8,Zipper,Pecan Tree,DKR,61,,,,DGB,SAND_C_A
+Chenango 8H,50,329,106.7,,Fleet 2,Simul,Cowboy,Moody Center,65.1,,,,Turbine,SAND_C_R
+Clark 3H,51,382,,,Fleet 9,Simul,Monarch Butterfly,Moody Center,56.2,,,,DGB,SAND_C_X
+Greene 4H,76,553,85.7,,Fleet 4,Zipper,Longhorn,Turtle Pond,76.8,,,,Turbine,SAND_C_A
+Chambers 5H,75,549,,,Fleet 8,Zipper,Longhorn,West Campus,51.8,,,,DGB,SAND_C_R
+Plaquemines 1H,68,517,90,,Fleet 14,Simul,Longhorn,The Tower,89.5,,,,Diesel,SAND_C_R
+Sac 2H,50,359,106.7,,Fleet 14,Simul,Bluebonnet,DKR,60.4,,,,Diesel,SAND_C_A
+Bourbon 4H,62,474,133.3,,Fleet 12,Simul,Lone Star,CPE,57.7,,,,Diesel,SAND_C_X
+Utuado 1H,49,391,78.1,,Fleet 10,Zipper,Longhorn,CPE,,,,,Diesel,SAND_C_A
+Montmorency 2H,75,572,96,,Fleet 14,Simul,Longhorn,Gregory Gym,46.7,,,,Diesel,SAND_C_X
+Mineral 6H,37,306,106.7,,Fleet 9,Simul,Bluebonnet,DKR,80.6,,,,DGB,SAND_C_A
+Racine 6H,51,402,96,,Fleet 1,Simul,Cowboy,Guadalupe,50.6,,,,Turbine,SAND_C_R
+Pinellas 6H,64,489,115.2,,Fleet 2,Simul,Rodeo,West Campus,74.5,,,,Grid,SAND_C_A
+Maricopa 2H,50,363,85.7,,Fleet 4,Zipper,Longhorn,CPE,56.8,,,,Turbine,SAND_C_R
+Rich 2H,51,375,106.7,,Fleet 2,Simul,Longhorn,Guadalupe,,,,,Turbine,SAND_C_A
+Scott 3H,51,346,106.7,,Fleet 1,Simul,Cowboy,Guadalupe,73.7,,,,Turbine,SAND_C_R
+Johnson 1H,62,435,,,Fleet 11,Zipper,Pecan Tree,West Campus,77.5,,,,Diesel,SAND_C_R
+Gilmer 6H,75,511,120,,Fleet 14,Simul,Longhorn,Gregory Gym,64,,,,Diesel,SAND_C_A
