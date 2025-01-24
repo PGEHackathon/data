@@ -1,4 +1,4 @@
-Masked Well Name,# Stages,# Clusters ,Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Masked Target Formation,Masked Field Area,Ambient Temperature,Grid,Diesel,CNG,Fuel Type,Sand Provider 
+Well Name,# Stages,# Clusters ,Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Target Formation,Field Area,Ambient Temperature,Grid,Diesel,CNG,Fuel Type,Sand Provider 
 Buchanan 6H,37,211,,,Fleet 9,Simul,Longhorn,Turtle Pond,74.5,,,,DGB,SAND_C_X
 Yabucoa 1H,43,297,102.4,,Fleet 2,Simul,Rodeo,West Campus,60.1,,,,Turbine,SAND_C_R
 Trujillo Alto 4H,60,459,96,,Fleet 12,Simul,Monarch Butterfly,Guadalupe,84.9,,,,Diesel,SAND_C_X
