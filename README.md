@@ -84,8 +84,8 @@ Here's an illustration of the systems for each fuel type,
 </figure>
 
 #### Problem Set
-
-* **[solution.csv](solution.csv)**
+* **[Questions.csv](Questions.csv)** is the test set you will use to make predictions
+* **[solution.csv](solution.csv)** is the format that you will report results in
 
 The solution file includes:
 
