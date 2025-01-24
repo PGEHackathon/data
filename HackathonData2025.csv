@@ -1,4 +1,4 @@
-Masked Well Name,# Stages,# Clusters ,Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Masked Target Formation,Masked Field Area,Ambient Temperature,Grid,Diesel,CNG,Fuel Type,Sand Provider 
+Well Name,# Stages,# Clusters ,Estimated Average Stage Time,Actual Average Stage Time,Frac Fleet,Fleet Type,Target Formation,Field Area,Ambient Temperature,Grid,Diesel,CNG,Fuel Type,Sand Provider 
 Cameron 1H,68,480,85.7,120.5,Fleet 4,Zipper,Pecan Tree,West Campus,35.9,0,0,22717,Turbine,SAND_C_X
 Cameron 2H,68,431,85.7,117.6,Fleet 4,Zipper,Pecan Tree,West Campus,35.9,0,0,22717,Turbine,SAND_C_R
 Tipton 1H,76,507,76.2,87,Fleet 8,Zipper,Bluebonnet,Gregory Gym,38.1,0,65098,14690,DGB,SAND_C_R
