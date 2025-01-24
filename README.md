@@ -59,7 +59,7 @@ You have the following available data:
 
 #### Well Data
 
-* **[HackathonData2025.csv](HackathonData2024.csv)** - data on 1083 unique wells information.
+* **[HackathonData2025.csv](HackathonData2024.csv)** - data for 1083 unique wells.
   
 The features include:
 | Features  | Description |
