@@ -1,10 +1,13 @@
 # Energy A.I. Hackathon 2025, the Fifth Annual Event
 
-## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John T. Foster](https://twitter.com/johntfoster)
+## Hosts: [Prof. Michael Pyrcz](https://x.com/GeostatsGuy) and [Prof. John T. Foster](https://x.com/johntfoster)
 
 ### Architects: [Ahmed Merzoug](https://www.linkedin.com/in/ahmed-merzoug/) and [Elnara Rustamzade](https://www.linkedin.com/in/elnara-rustamzade-779396162/)
 
 ### Home Department Chair and Hackathon Supporter: [Prof. Matthew Balhoff](https://www.linkedin.com/in/matthew-balhoff-4297b247/)
+
+### Special Appreciation to [Amy Rueve](https://www.linkedin.com/in/amyrueve/) and [ExxonMobil](https://corporate.exxonmobil.com/) for providing the data set for this year's problem. 
+
 
 ### Sponsors 
 
@@ -19,7 +22,8 @@ Bronze:
 
 ### Coordination and Student Engagement: Rowan Halliday, Heba Abdel-Rahim, Gabby Banales, and Stacia Miller
 
-### Appreciate to the Hildebrand Department of Petroleum and Geosystems Engineering for their great support of the Energy AI Hackathon 
+### Appreciation to the Hildebrand Department of Petroleum and Geosystems Engineering for their great support of the Energy AI Hackathon 
+
 
 
 ___
@@ -28,7 +32,7 @@ ___
 
 **Goal**: Develop a data analytics and machine learning workflow in Python to:
 
-* Predict **Grid,	Diesel, and	CNG** energy usage during hydraulic fracturing operation based many possible predictor features for 50 wells. This includes single estimates and an uncertainty model represented by 100 realizations for each well.
+* Predict **Grid, Diesel, and CNG** energy usage during hydraulic fracturing operation based many possible predictor features for 50 wells. This includes single estimates and an uncertainty model represented by 100 realizations for each well.
  
 #### Background
 
