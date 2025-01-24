@@ -28,7 +28,7 @@ ___
 
 **Goal**: Develop a data analytics and machine learning workflow in Python to:
 
-* Predict **Grid,	Diesel, and	CNG** energy usage during hydraulic fracturing operation based many possible predictor features for 15 wells. This includes single estimates and an uncertainty model represented by 100 realizations for each well.
+* Predict **Grid,	Diesel, and	CNG** energy usage during hydraulic fracturing operation based many possible predictor features for 50 wells. This includes single estimates and an uncertainty model represented by 100 realizations for each well.
  
 #### Background
 
@@ -116,7 +116,7 @@ ___
 
 By January 26 at 12:00 noon each team must submit:
 
-* **Solution Table** - a .csv file with your predictions (estimates and uncertainty) for the 15 wells using the template given in [solution.csv](solution.csv) in this directory.
+* **Solution Table** - a .csv file with your predictions (estimates and uncertainty) for the 50 wells using the template given in [solution.csv](solution.csv) in this directory.
 
     * the file must be named `solution.csv` with final values in a commit and then pushed to Github for automated scoring.
 
