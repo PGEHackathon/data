@@ -134,4 +134,6 @@ By January 26 at 12:00 noon each team must submit:
 
     * the file must be named `xxxx.pptx` and pushed to GitHub for review by the judges, where **xxxx** is your team name.
 
+    * **YOU MUST INCLUDE ALL TEAM PARTICIPANTS NAMES ON YOUR PRESENTATION TITLE SLIDE**
+
 Use the [solution.csv](solution.csv) file (in this directory) to record your solution.
