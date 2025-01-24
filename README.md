@@ -79,6 +79,8 @@ The features include:
 | **Fuel Type** | The type of system used for generating energy, turbine (compress natural gas in metric million British thermal units), grid (grid in kilowatt-hours), diesel (generator in gallons) and dynamic gas blending (DGB diesel in gallons and compressed natural gas in compress natural gas in metric million British thermal units) |
 | **Sand Provider** | The company that provided sand to be pumped into the well |
 
+More details about all the features were provided by the company in this file [Data_Description2025.pdf](Data_Description2025.pdf).
+
 Here's an illustration of the systems for each fuel type,
 
 <figure style="text-align: center;">
